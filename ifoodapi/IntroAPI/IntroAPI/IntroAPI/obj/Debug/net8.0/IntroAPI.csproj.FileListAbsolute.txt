@@ -1,0 +1,167 @@
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.json
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.exe
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.deps.json
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.runtimeconfig.json
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.pdb
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfoInputs.cache
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfo.cs
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.CoreCompileInputs.cache
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.IntroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.IntroAPI.props
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IntroAPI.props
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IntroAPI.props
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\scopedcss\bundle\IntroAPI.styles.css
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.dll
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\refint\IntroAPI.dll
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.pdb
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.genruntimeconfig.cache
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\ref\IntroAPI.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\PI\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.AssemblyReference.cache
+D:\PI\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.Up2Date
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.exe
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.deps.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.runtimeconfig.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.pdb
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.IntroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.IntroAPI.props
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IntroAPI.props
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IntroAPI.props
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\scopedcss\bundle\IntroAPI.styles.css
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.Up2Date
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\refint\IntroAPI.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.pdb
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\ref\IntroAPI.dll
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.xml
+C:\Users\Aluno\Downloads\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.xml
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.AssemblyReference.cache
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfoInputs.cache
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfo.cs
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.CoreCompileInputs.cache
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\refint\IntroAPI.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.pdb
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.exe
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.deps.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.runtimeconfig.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.pdb
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.xml
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.IntroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.IntroAPI.props
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IntroAPI.props
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IntroAPI.props
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\scopedcss\bundle\IntroAPI.styles.css
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.Up2Date
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.genruntimeconfig.cache
+E:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\ref\IntroAPI.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\appsettings.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.exe
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.deps.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.runtimeconfig.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.pdb
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\IntroAPI.xml
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.AssemblyReference.cache
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfoInputs.cache
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.AssemblyInfo.cs
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.CoreCompileInputs.cache
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.IntroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.IntroAPI.props
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IntroAPI.props
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IntroAPI.props
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\scopedcss\bundle\IntroAPI.styles.css
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.csproj.Up2Date
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\refint\IntroAPI.dll
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.pdb
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\IntroAPI.genruntimeconfig.cache
+G:\2 Semestre\LP\IntroAPI(1)\IntroAPI\IntroAPI\obj\Debug\net8.0\ref\IntroAPI.dll

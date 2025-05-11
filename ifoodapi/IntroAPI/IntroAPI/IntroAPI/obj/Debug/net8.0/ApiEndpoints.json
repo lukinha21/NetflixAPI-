@@ -1,0 +1,441 @@
+[
+  {
+    "ContainingType": "IfoodAPI.Controllers.CatalogController",
+    "Method": "ListCatalogs",
+    "RelativePath": "merchants/{merchantId}/catalogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "List_categories",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "includeItems",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "include_items",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "catalogId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "Create_category",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "Get_a_category",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/categories/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "includeItems",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "include_items",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "Edit_a_category",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/categories/{categoryId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IfoodAPI.Controllers.CatalogController",
+    "Method": "ListChangelogs",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/changelog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IfoodAPI.Controllers.CatalogController",
+    "Method": "ListUnsellableItems",
+    "RelativePath": "merchants/{merchantId}/catalogs/{catalogId}/unsellableItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IfoodAPI.Controllers.CatalogController",
+    "Method": "ListSellableItems",
+    "RelativePath": "merchants/{merchantId}/catalogs/{groupId}/sellableItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "groupId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IfoodAPI.Controllers.CatalogController",
+    "Method": "CheckVersion",
+    "RelativePath": "merchants/{merchantId}/catalogs/version",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "Delete_a_category",
+    "RelativePath": "merchants/{merchantId}/categories/{categoryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.CategoryController",
+    "Method": "List_items_with_that_category",
+    "RelativePath": "merchants/{merchantId}/categories/{categoryId}/Items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "EditProduct",
+    "RelativePath": "merchants/{merchantId}/product/{productId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "ProdV",
+        "Type": "IntroAPI.ViewModel.ProdViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "DeleteProduct",
+    "RelativePath": "merchants/{merchantId}/product/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "Get_product_by_id",
+    "RelativePath": "merchants/{merchantId}/product/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "ListProducts",
+    "RelativePath": "merchants/{merchantId}/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "CreateProduct",
+    "RelativePath": "merchants/{merchantId}/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "ProdV",
+        "Type": "IntroAPI.ViewModel.ProdViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "ListProducts_external",
+    "RelativePath": "merchants/{merchantId}/products/externalCode/{externalCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "externalCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "BatchUpdate_prices",
+    "RelativePath": "merchants/{merchantId}/products/price",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogContext",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IntroAPI.Controllers.Productcontroller",
+    "Method": "BatchUpdate_status",
+    "RelativePath": "merchants/{merchantId}/products/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogContext",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

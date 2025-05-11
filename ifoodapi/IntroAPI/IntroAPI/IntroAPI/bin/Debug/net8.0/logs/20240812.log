@@ -1,0 +1,40 @@
+2024-08-12 20:02:56.385 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:15:47.837 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:18:57.451 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:20:48.739 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:23:01.193 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:23:47.925 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:24:14.658 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28
+2024-08-12 20:25:04.033 -03:00 [ERR] Deu erro no X
+System.FormatException: The input string 'x' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at IntroAPI.Controllers.WeatherForecastController.Get() in D:\PI\IntroAPI\IntroAPI\Controllers\WeatherForecastController.cs:line 28

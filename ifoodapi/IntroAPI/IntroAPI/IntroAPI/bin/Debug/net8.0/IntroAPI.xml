@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IntroAPI</name>
+    </assembly>
+    <members>
+        <member name="M:IfoodAPI.Controllers.CatalogController.ListCatalogs(System.String)">
+            <summary>
+            List all available catalogs given a Merchant Id
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IfoodAPI.Controllers.CatalogController.ListChangelogs(System.String,System.String,IntroAPI.ViewModel.DateViewModel)">
+            <summary>
+            List all changes made to a catalog given a time window These changes are currently indexed at category level, which means, in case something is changed within a category, there will be a registry indicating something has changed. There will be two fields in the response body: modifiedAt (date and time which a change has been made) and changelogIngestedAt (date and time which a change has been processed by Changelog system). Registries will be queried based on changelogIngestedAt from newest to oldest
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogId">Catalog UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IfoodAPI.Controllers.CatalogController.ListUnsellableItems(System.String,System.String)">
+            <summary>
+            List all unsellable categories or categories containing unsellable items. That is, categories or items with violations, paused ones, etc.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogId">Catalog UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IfoodAPI.Controllers.CatalogController.ListSellableItems(System.String,System.String)">
+            <summary>
+            List all sellable items, it will return only items that can be sold using all attributes and schedule information.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="groupId">Group UUID</param>
+            <returns>.</returns>
+        </member>
+        <member name="M:IfoodAPI.Controllers.CatalogController.CheckVersion(System.String)">
+            <summary>
+            Returns the version of the catalog, which implies the version of the API this store should use.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.List_categories(System.String,IntroAPI.ViewModel.ItemsViewModel)">
+            <summary>
+            List all categories within a specific catalog, which may include items within those categories
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.Create_category(System.String,System.String)">
+            <summary>
+            Create a category within a catalog
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogId">Catalog UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.Get_a_category(System.String,System.String,System.String,IntroAPI.ViewModel.ItemsViewModel)">
+            <summary>
+            Fetch a specific category, which may include items within that category
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogId">Catalog UUID</param>
+            <param name="categoryId">Category UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.Edit_a_category(System.String,System.String,System.String)">
+            <summary>
+            Edit a category. Unsent fields will preserve their former values. Status changes may be applied to the items associated with the given category.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogId">Catalog UUID</param>
+            <param name="categoryId">Category UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.List_items_with_that_category(System.String,System.String)">
+            <summary>
+            List all items within that category
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="categoryId">Category UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.CategoryController.Delete_a_category(System.String,System.String)">
+            <summary>
+            Delete a category in all merchant services. All items within that category will also be deleted
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="categoryId">Category UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.ListProducts(System.String,IntroAPI.ViewModel.ProductViewModel)">
+            <summary>
+            List all products registered to a given merchant
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.CreateProduct(System.String,IntroAPI.ViewModel.ProdViewModel)">
+            <summary>
+            Create a product. After being created, the product isn't yet available for sale. It is necessary to associate it to a category via item creation (association) API
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="ProdV">Represents the product to be created</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.EditProduct(System.String,System.String,IntroAPI.ViewModel.ProdViewModel)">
+            <summary>
+            Edit a product. Once updated, all items and options associated to that product will also be updated
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="productId">Product UUID</param>
+            <param name="ProdV">Value object representation of a product's fields to be updated</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.DeleteProduct(System.String,System.String)">
+            <summary>
+            Delete a product. All items and options associated to that product will also be deleted in all catalogs
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="productId">Product UUID</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.BatchUpdate_status(System.String,System.String)">
+            <summary>
+            Batch update options and items statuses by productId or externalCode. All items and options associated to all given products will also be updated. It is also possible to define if only items or options should be update. This functionality is executed asynchronously. A batch id and an url are going to be returned. The url is from a get endpoint, where is possible to check each update result.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogContext">The catalog context in which the operation is to be performed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.BatchUpdate_prices(System.String,System.String)">
+            <summary>
+            Batch update options and items prices by productId or externalCode. All items and options associated to all given products will also be updated. It is also possible to define if only items or options should be updated. This functionality is executed asynchronously. A batch id and an url are going to be returned. The url is from a get endpoint, where is possible to check each update result.
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="catalogContext">The catalog context in which the operation is to be performed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.ListProducts_external(System.String,System.String)">
+            <summary>
+            List all products registered to a given merchant by external code
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="externalCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IntroAPI.Controllers.Productcontroller.Get_product_by_id(System.String,System.String)">
+            <summary>
+            Get a product by id
+            </summary>
+            <param name="merchantId">Merchant UUID</param>
+            <param name="productId">Product UUID</param>
+            <returns></returns>
+        </member>
+        <member name="P:IntroAPI.ViewModel.DateViewModel.startDate">
+            <summary>
+            UTC formatted date. Example: 2020-07-02T17:39:22.645Z
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.DateViewModel.endDate">
+            <summary>
+            UTC formatted date. Example: 2020-07-02T17:39:22.645Z
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ItemsViewModel.includeItems">
+            <summary>
+            Indicates whether items and their option groups should be included in the response
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ItemsViewModel.include_items">
+            <summary>
+            Deprecated. Indicates whether items and their option groups should be included in the response
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProductViewModel.limit">
+            <summary>
+            Maximum amount of products returned. Maximum value of 200
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProductViewModel.page">
+            <summary>
+            Product list page number
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProdViewModel.id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProdViewModel.name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProdViewModel.additionalInformation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:IntroAPI.ViewModel.ProdViewModel.externalCode">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
